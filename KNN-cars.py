@@ -7,4 +7,3 @@ from sklearn.utils import shuffle
 import matplotlib.pyplot as pyplot
 import pickle
 from matplotlib import style
-
